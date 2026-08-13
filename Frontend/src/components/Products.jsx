@@ -2,9 +2,9 @@ import { useState } from "react";
 
 // Product Images
 import Product1 from "../assets/Product1.png";
-import Product6 from "../assets/Product11.png";
-import Product7 from "../assets/Product12.png";
-import Product8 from "../assets/Product13.png";
+import Product6 from "../assets/product11.png";
+import Product7 from "../assets/product12.png";
+import Product8 from "../assets/product13.png";
 import Product2 from "../assets/Product2.png";
 import Product3 from "../assets/Product3.png";
 import Product4 from "../assets/Product4.png";
